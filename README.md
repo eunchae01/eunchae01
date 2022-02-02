@@ -1,6 +1,6 @@
 ### Hi there 👋
 ---
-<!-- [![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=eunchae01)](https://solved.ac/profile/eunchae01) -->
+ [![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=eunchae01)](https://solved.ac/profile/eunchae01)
 
 
 
