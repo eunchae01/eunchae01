@@ -1,5 +1,8 @@
 ### Hi there 👋
 ---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunchae01&layout=compact)](https://github.com/eunchae01/github-readme-stats)
+
+
  [![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=eunchae01)](https://solved.ac/profile/eunchae01)
 
 
