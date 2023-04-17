@@ -1,3 +1,5 @@
+[header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
 ### Hi there 👋
 <h3>Profile</h3>
 <p> NAME : 조은채 </p>
